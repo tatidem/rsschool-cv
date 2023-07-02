@@ -2,13 +2,13 @@
 ### Junior Frontend Developer
 ----------
 ### Contact information:
-**Phone:**  +995 595 421 393
-**E-mail:**  tdemianova@gmail.com
-**GitHub:**  [tatidem](https://github.com/tatidem)
+**Phone:**  +995 595 421 393  
+**E-mail:**  tdemianova@gmail.com  
+**GitHub:**  [tatidem](https://github.com/tatidem)  
 [Telegram](http://t.me/tatidem)
-[Facebook](https://www.facebook.com/tatyana.demyanova.35) 
+[Facebook](https://www.facebook.com/tatyana.demyanova.35)  
 ----------
-###  About Myself:
+###  About Myself:  
 I have a technical specialty in building construction, but my true passion and interest lie in web development. I am highly motivated to learn and excel in this field. Although I do not have professional experience in web development, I have dedicated a considerable amount of time and effort to self-studying HTML, CSS, and JavaScript.
 ----------
 #### Skills and Proficiency:
