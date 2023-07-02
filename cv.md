@@ -45,8 +45,13 @@ console.log(a); // Output: 420
 ----------
 ### Education:
 - St. Petersburg University of Architecture and Civil Engineering (civil engeneer)
+----
 ### Courses:
 -   HTML and CSS Tutorials on the  udemy.com and stepik.org
+----
+### Experience:
+I have limited experience in web development as part of the course program (HTML and CSS)
+-----
 ### Languages:
--  Russian (native speaker)
+- Russian (native speaker)
 - English B2
