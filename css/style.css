@@ -10,10 +10,11 @@ html {
     position: relative;
     width: 1140px;
     margin: 0 auto;
+    box-shadow: 4px 4px 25px rgba(0, 0, 0, 0.2);
 }
 header {
     height: 400px;
-    background-color: rgb(185, 199, 212); 
+    background: linear-gradient(to right, #939ea9, #f9f9fa);
 }
 .header_wrapper{
     display: flex;
@@ -46,19 +47,19 @@ h2.contact_info{
 .social_media{
     display: flex;
     justify-content: space-between;
-    margin: 30px 70px 0 0;
+    margin: 30px 100px 0 0;
 }
 h3{
     font-size: 30px;
 }
 .category{
-    margin: 40px 0 0 0;
+    margin: 40px 45px 0 45px;
 }
 .divider{
-    width: 1140px;
-    height: 10px;
-    background-color: rgb(28, 28, 114, 0.80);
-    margin: 20px 0 0 0;
+    height: 6px;
+    background-color: #1c1c73cc;
+    border-radius: 4px;
+    margin: 15px 0 0 0;
 }
 .content_text{
     margin-top: 20px;
@@ -74,11 +75,12 @@ ul{
 .code_content{
     background-color: rgb(185, 199, 212, 0.3); 
     padding: 30px;
+    border-radius: 10px;
 }
 footer{
-    background-color: rgb(185, 199, 212);
+    background: linear-gradient(to top, #939ea9, #f9f9fa);
     margin-top: 40px;
-    padding: 20px;
+    padding: 20px 20px 10px 20px;
 }
 .footer_wrapper{
     display: flex;
