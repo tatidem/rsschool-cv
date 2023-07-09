@@ -22,11 +22,11 @@ header {
 }
 .header_photo {
     display: inline-block;
-    width: 360px;
+    width: 500px;
 }
 .header_text{
     display: inline-block;
-    width: 370px;
+    width: 500px;
     margin-top: 30px;
     font-size: 22px;
     line-height: 30px;
@@ -42,13 +42,13 @@ h2.profession{
 }
 h2.contact_info{
     font-size: 25px;
-    margin: 150px 0 20px 0;
+    margin: 50px 0 20px 0;
 }
 .social_media{
     display: flex;
     justify-content: space-between;
-    margin: 30px 100px 0 0;
-}
+    margin: 30px 200px 0 0;
+} 
 h3{
     font-size: 30px;
 }
@@ -92,10 +92,66 @@ footer{
 }
 .github{
     margin-top: 30px;
-    font-size: 25px;
-    line-height: 35px;
+    font-size: 20px;
+    line-height: 25px;
 }
 .year{
     text-align: center;
     font-size: 20px;
+    margin-top: 10px;
+}
+@media (max-width: 1140px){
+    .container {
+      width: 100%;
+    }
+    /* /* .header_wrapper{
+        width: 100%;
+    } */
+    /* .header_photo{
+        min-height: 100vh;
+	    background-size: cover;
+	    background-position: center;
+	    position: relative;
+    }
+    .github{
+        font-size: 10px;
+        line-height: 25px;
+    }
+    .header_text{ */ 
+        /* display: block; */
+        /* width: 100%;
+        margin-top: 20px;
+        font-size: 20px;
+        line-height: 25px;
+    }
+    h1.name{
+        font-size: 22px;
+    }
+    .header_text .contact{
+        font-size: 15px;
+    }
+    h2.profession{
+        font-size: 20px;
+    }
+    h2.contact_info{
+        font-size: 20px;
+        margin: 150px 0 30px 0;
+    }
+    .social_media{
+        display: flex;
+        justify-content: space-between;
+        margin: 30px 70px 0 0;
+    } 
+    .header_photo{
+        width: 100%;
+        background-size: cover;
+	background-position: center;
+	position: relative
+    } */
+    /* .category{
+        width: 100%;
+      }
+    .header_text{
+        display:block;
+    } */
 }
